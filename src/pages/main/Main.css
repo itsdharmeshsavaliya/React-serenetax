@@ -1,0 +1,14 @@
+.main_body_container {
+  margin-top: 130px;
+  margin-left: 220px;
+  margin-bottom: 50px;
+}
+
+.pill {
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px !important;
+}
